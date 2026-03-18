@@ -5,3 +5,4 @@ node_modules
 nv32.crt
 .gitignore
 nv32.key
+unused-components
