@@ -34,6 +34,5 @@ export default function AirwallIndicator({ control }: { control?: Control }) {
       <Typography variant="h6" sx={{ color: 'primary.contrastText' }}>
         {toggled ? 'Combined' : 'Divided'}
       </Typography>
-    // </Box>
   )
 }
