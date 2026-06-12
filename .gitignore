@@ -6,3 +6,4 @@ nv32.crt
 .gitignore
 nv32.key
 unused-components
+.DS_STORE
